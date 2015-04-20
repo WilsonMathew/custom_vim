@@ -1,8 +1,8 @@
-My vim custimization
+My vim customization
 ==============================
 
 This customization is as I learn vim with the 'Learn Vim the Hard way' guide.
-It includes _vimperatorrc $ _vimrc
+It includes _vimperatorrc & _vimrc
 
 Milestones
 -----------
