@@ -1,0 +1,31 @@
+"3.8.3 (created: 2014/11/09 13:19:01)
+
+"Setting up mapleader and local mapleaders
+let mapleader = ","
+" let maplocalleader = "\\"
+
+" Mappings
+================================
+
+" ; into :
+nnoremap ; :
+nnoremap : ;
+
+" gt into l
+nnoremap gt l
+nnoremap l gt
+
+" h into gT
+nnoremap gT h
+nnoremap h gT
+
+inoremap jk <esc>
+
+source! "C:\\Users\\Mateo\\_vimperatorrc.local"
+
+" vim: set ft=vimperator:
+
+
+" To do commands
+
+" A command that moves my curent tab to other location :tabmove, Use ,n. Using variable 
