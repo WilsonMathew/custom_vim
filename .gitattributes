@@ -1,0 +1,10 @@
+#retain windows line-endings in case chacked out on mac or linux
+text eol=crlf
+
+# files that should be treated as binary
+*.png	binary
+*.jepg 	binary
+
+*.class binary
+*.exe -text
+*.zip -text
